@@ -35,7 +35,7 @@ The project consists of the following main classes:
    
 3. Navigate to the project directory
    ```
-   cd library-management-system
+   cd LibraryManagement-masterNB
    ```
 4. Compile the Java files:
    ```
